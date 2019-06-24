@@ -1,0 +1,47 @@
+header{
+    height: 50pt;
+    text-align: center;
+    margin:10px;
+
+}
+header>*{
+    background-color: white;
+    height:100%;
+    margin:10px 0px;
+}
+#title>p{
+    padding:20px 0px 10px 0px;
+    font-size: 20px;
+}
+#title{
+    box-shadow: 0px 0px 10px black inset;
+}
+*{
+    margin:auto;
+    
+}
+body{
+    background-image: url(../img/pattern-3296033_1280.png);
+}
+body>*{
+    width:80%;
+    margin:auto;
+    box-shadow: 0 0 10px;
+    
+}
+div#main-outer{
+}
+div#main-inner{
+    background-color: white;
+    height:100%;
+    box-shadow: 0px 0px 10px black inset;
+}
+#main-inner>*{
+    margin:10px;
+}
+div#access{
+
+}
+footer>*{
+    background-color: white;
+}
